@@ -1,0 +1,7 @@
+﻿# Los instaladores y manifiestos viven en Releases, nunca en commits.
+*.exe
+*.blockmap
+latest.yml
+*.dmg
+*.zip
+*.AppImage
